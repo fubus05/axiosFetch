@@ -1,0 +1,23 @@
+a, li{
+    list-style-type: none;
+    text-decoration: none;
+}
+.container > h1{
+    text-align: center;
+}
+.forDis{
+    display: inline-flex;
+    margin: 50px;
+    text-align: center;
+}
+.prevBlock{
+    width: 250px;
+    height: 250px;
+}
+.imgDis{
+    border-radius: 50%;
+    width: 100px;
+}
+.imgBD{
+    width: 200px;
+}
